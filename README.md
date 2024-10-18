@@ -4,8 +4,8 @@
 4) python manage.py makemigrations
 5) python manage.py migrate
 6) For Postman URL: http://localhost:8000/user/
-7) method: POST
-8) JSON:
+method: POST
+JSON:
 {
   "email": "devselit@gmail.com",
   "username": "root",
